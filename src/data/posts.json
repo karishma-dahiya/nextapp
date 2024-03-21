@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "username": "User 1",
+      "location": "Sector 1",
+      "lastSeen": "3 min ago",
+      "likes":"2k",
+      "comments":"1k",
+      "views":"2k",
+      "text":"This is an example text for this post containing likes and comments and views etc etc"
+    },
+    {
+      "id": 2,
+      "username": "User 1",
+      "location": "Sector 1",
+      "lastSeen": "3 min ago",
+      "likes":"2k",
+      "comments":"1k",
+      "views":"2k",
+      "text":"This is an example text for this post containing likes and comments and views etc etc"
+    },
+    {
+      "id": 3,
+      "username": "User 1",
+      "location": "Sector 1",
+      "lastSeen": "3 min ago",
+      "likes":"2k",
+      "comments":"1k",
+      "views":"2k",
+      "text":"This is an example text for this post containing likes and comments and views etc etc"
+    },
+    {
+      "id": 4,
+      "username": "User 1",
+      "location": "Sector 1",
+      "lastSeen": "3 min ago",
+      "likes":"2k",
+      "comments":"1k",
+      "views":"2k",
+      "text":"This is an example text for this post containing likes and comments and views etc etc"
+    },
+    {
+      "id": 5,
+      "username": "User 1",
+      "location": "Sector 1",
+      "lastSeen": "3 min ago",
+      "likes":"2k",
+      "comments":"1k",
+      "views":"2k",
+      "text":"This is an example text for this post containing likes and comments and views etc etc"
+    },
+    {
+      "id": 6,
+      "username": "User 1",
+      "location": "Sector 1",
+      "lastSeen": "3 min ago",
+      "likes":"2k",
+      "comments":"1k",
+      "views":"2k",
+      "text":"This is an example text for this post containing likes and comments and views etc etc"
+    }
+    
+  ]
